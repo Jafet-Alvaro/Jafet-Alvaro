@@ -9,21 +9,22 @@ Hi there! I'm Jafet Alvaro Antonio, a passionate web developer and designer on a
 
 ## My Skills 💻
 
-- 💡 HTML, CSS, JavaScript
-- 🎨 Graphic Design
+- 💡 Front-end Development:
+  - HTML5 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  - CSS3 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+- 🎨 Graphic Design:
+  - Adobe Photoshop ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+  - Adobe Illustrator ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+
 - 🔍 SEO Strategies
 
-## Projects 🚀
-
-Check out some of my projects below:
-
-- [Project 1]([link-to-project-1](https://jafet-alvaro.github.io/)) - Portafolio.
-- 
 ## Let's Connect! 🤝
 
 I'm open to exciting opportunities and collaborations. Feel free to reach out:
 
 - 📧 Email: contacto@jafet-alvaro.com
-- 📱 LinkedIn: [@jafet-alvaro](https://www.linkedin.com/in/jafet-alvaro/)
+- 📱 LinkedIn: @jafet-alvaro (https://www.linkedin.com/in/jafet-alvaro/)
 
 Let's build something amazing together! 🌈
