@@ -24,7 +24,7 @@ Hi there! I'm Jafet Alvaro Antonio, a passionate web developer and designer on a
 
 I'm open to exciting opportunities and collaborations. Feel free to reach out:
 
-- 📧 Email: contacto@jafet-alvaro.com
+- 📧 Email: alvaro.antonio1290@gmail.com
 - 📱 LinkedIn: @jafet-alvaro (https://www.linkedin.com/in/jafet-alvaro/)
 
 Let's build something amazing together! 🌈
